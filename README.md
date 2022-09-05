@@ -13,7 +13,7 @@
 ---
 ### :woman_technologist: Меня зовут Юлия и я начинающий Python Developer.
 
-#### :mailbox:Связаться со мной можно в Telegram: @JuliaYa
+#### :mailbox:Связаться со мной можно в Telegram: @Julia_Yd
 ---
 ### :hammer_and_wrench: Мой стек:
 
