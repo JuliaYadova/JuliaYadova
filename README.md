@@ -11,7 +11,7 @@
 </h1>
 
 ---
-### :woman_technologist: Меня зовут Юлия и я начинающий Python Developer.
+### :woman_technologist: Меня зовут Юлия и я Python Developer.
 
 #### :mailbox:Связаться со мной :
   <div id="badges">
